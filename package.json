@@ -41,7 +41,8 @@
   },
   "dependencies": {
     "nan": "^2.10.0",
-    "node-pre-gyp": "^0.10.3"
+    "node-pre-gyp": "^0.10.3",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "bluebird": "^3.5.1",
